@@ -11,9 +11,10 @@ body {
  }
 
  li {
-   color-red;
+   color: red;
  }
 
  img {
    width: 300px;
+   width: 25em;
  }
